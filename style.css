@@ -1,0 +1,23 @@
+header{
+    background-color: #FFF9F4;
+}
+.color-text{
+    color: #FA804C;
+    font-size: 70px;
+    font-weight: 700;
+}
+.color-text2{
+    color: #363958;
+    font-size: 70px;
+    font-weight: 700;
+}
+.title{
+    color: #363958;
+}
+.card-img {
+    background-color: #F1F1F1;   
+}
+.price{
+    color: #FA804C;
+    font-weight: 900;
+}
